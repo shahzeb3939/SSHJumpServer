@@ -6,7 +6,7 @@
 
     <groupId>io.github.shahzeb3939</groupId>
     <artifactId>SSHJumpServer</artifactId>
-    <version>1.0.0</version>
+    <version>1.0-SNAPSHOT</version>
 
     <name>SSHJumpServer</name>
     <description>A library to SSH into a Jump Server.</description>
